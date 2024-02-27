@@ -1,0 +1,35 @@
+#form{
+position: absolute;top: 2px;right: 2px;
+width: 50%;
+min-height: 95vh;
+
+}
+h3{
+  margin-left: 750px;
+}
+ .input{
+  border: none;
+ }
+ h4{
+  font-size: 150%;
+ }
+ h6{
+  font-size: 150%;
+ }
+ h5{
+  font-size: 300%;
+  color: navy;
+ }
+ button{
+  color: antiquewhite;
+  min-height: 20%;
+  border-radius: 5px;
+ }
+ h7{
+  font-size: 150%;
+ }
+ 
+
+
+
+
